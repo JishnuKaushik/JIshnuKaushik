@@ -8,6 +8,7 @@
 - 💻 Building: Projects to improve problem solving
 - 🎯 Goal: Become a strong Software Engineer
 
+---
 
 ### 🛠 Tech Stack
 - Languages: C++, Python
