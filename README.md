@@ -1,23 +1,22 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🔥 Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jishnu%20Kaushik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jishnu Kaushik</h1>
-<h3 align="center">Aspiring Software Engineer | BTech CSE Student</h3>
+<h3 align="center">BTech CSE Student | Aspiring Software Engineer</h3>
 
-<!-- ⚡ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Learner;DSA+Enthusiast;Building+Projects;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Learner;DSA+Focused;Problem+Solver;Building+Consistency" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently focused on **C++ & Data Structures**
-- 💻 Building projects to improve problem-solving
-- 📚 Learning consistency over perfection
+- 🌱 Currently learning **C++ & Data Structures**
+- 💻 Practicing through real problems and assignments
 - 🎯 Goal: Become a strong Software Engineer
+- ⚡ Focus: Consistency over motivation
 
 ---
 
@@ -50,25 +49,35 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JishnuKaushik&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+## 🚀 Featured Work
+
+### 📘 C++ Learning & Practice
+- 🔹 **LEARNING-CPP** – Core C++ concepts and practice programs  
+- 🔹 **CPP-JOURNEY** – Structured journey from basics to advanced  
+- 🔹 **HACKER-EARTH-QUESTIONS** – Problem solving using C++
 
 ---
 
-## 🚀 Featured Projects
-- 🔹 Amazon Scraper – Extract product data using Python
-- 🔹 Image Scraper – Automated image collection tool
-- 🔹 C++ Practice – Core programming & logic building
-- 🔹 Upcoming: DSA Structured Repo
+### 🧪 Academic Work
+- 🔹 **FOCP-II-ASSIGNMENT** – C++ assignments  
+- 🔹 **FOCP-II-Lab-Manual** – Lab programs and implementations  
+
+---
+
+### 🤖 Advanced Project (Private)
+- 🔹 **Adaptive Neural Intelligence Engine** – Self-learning system in C++
+
+---
+
+### 🐍 Python Learning
+- 🔹 **Python-For-Everybody** – Coursework and practice from Python course  
 
 ---
 
 ## 🧠 Currently Working On
-- 📌 DSA in C++
-- 📌 Strengthening problem-solving
-- 📌 Building consistent coding habits
+- 📌 Strengthening DSA in C++  
+- 📌 Writing cleaner and structured code  
+- 📌 Building consistency in coding  
 
 ---
 
@@ -77,17 +86,21 @@
 
 ---
 
-<!-- 👀 Visitor Counter -->
+## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JishnuKaushik&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- 🐍 Contribution Snake -->
+---
+
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- 🔥 Footer Banner -->
+---
+
+<!-- 🔥 Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
