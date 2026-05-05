@@ -1,47 +1,62 @@
+<!-- 🔥 Animated Banner (stable) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jishnu%20Kaushik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jishnu Kaushik</h1>
 <h3 align="center">BTech CSE Student | Aspiring Software Engineer</h3>
+
+<!-- ⚡ Typing Animation (very stable) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Learner;DSA+Focused;Problem+Solver;Building+Consistency" />
+</p>
 
 ---
 
 ## 🚀 About Me
 - 🌱 Learning **C++ & Data Structures**
-- 💻 Practicing through assignments & problem solving
+- 💻 Practicing through real problems & assignments
 - 🎯 Goal: Become a strong Software Engineer
-- ⚡ Consistency > motivation
+- ⚡ Consistency beats motivation
 
 ---
 
 ## 🛠 Tech Stack
-- C++
-- Python
-- Git & GitHub
-- VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Featured Work
 
 ### 📘 C++ Learning
-- **LEARNING-CPP** – Core C++ concepts & practice
-- **CPP-JOURNEY** – Basics → advanced progression
-- **HACKER-EARTH-QUESTIONS** – Problem-solving
+- 🔹 **LEARNING-CPP** – Core concepts and practice  
+- 🔹 **CPP-JOURNEY** – Basics to advanced  
+- 🔹 **HACKER-EARTH-QUESTIONS** – Problem solving  
+
+---
 
 ### 🧪 Academic Work
-- **FOCP-II-ASSIGNMENT** – C++ assignments
-- **FOCP-II-Lab-Manual** – Lab programs
+- 🔹 **FOCP-II-ASSIGNMENT**  
+- 🔹 **FOCP-II-Lab-Manual**
+
+---
 
 ### 🤖 Advanced (Private)
-- **Adaptive Neural Intelligence Engine** – Self-learning system in C++
+- 🔹 Adaptive Neural Intelligence Engine (C++)
+
+---
 
 ### 🐍 Python
-- **Python-For-Everybody** – Course-based practice
+- 🔹 Python-For-Everybody  
 
 ---
 
 ## 🧠 Currently Working On
-- DSA in C++
-- Writing cleaner code
-- Building consistency
+- 📌 DSA in C++
+- 📌 Writing cleaner code
+- 📌 Consistency in coding
 
 ---
 
@@ -52,7 +67,14 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (your working one)
 <p align="center">
   <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- 🔥 Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
