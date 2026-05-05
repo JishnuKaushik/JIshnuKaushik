@@ -6,6 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jishnu Kaushik</h1>
 <h3 align="center">BTech CSE Student | Aspiring Software Engineer</h3>
 
+<!-- ⚡ Typing -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Learner;DSA+Focused;Problem+Solver;Building+Consistency" />
 </p>
@@ -13,10 +14,10 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **C++ & Data Structures**
-- 💻 Practicing through real problems and assignments
+- 🌱 Learning **C++ & Data Structures**
+- 💻 Practicing through real problems & assignments
 - 🎯 Goal: Become a strong Software Engineer
-- ⚡ Focus: Consistency over motivation
+- ⚡ Belief: Consistency beats motivation
 
 ---
 
@@ -29,15 +30,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JishnuKaushik&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=JishnuKaushik&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -51,38 +52,33 @@
 
 ## 🚀 Featured Work
 
-### 📘 C++ Learning & Practice
-- 🔹 **LEARNING-CPP** – Core C++ concepts and practice programs  
-- 🔹 **CPP-JOURNEY** – Structured journey from basics to advanced  
-- 🔹 **HACKER-EARTH-QUESTIONS** – Problem solving using C++
+### 📘 C++ Learning
+- 🔹 **LEARNING-CPP** – C++ concepts and practice programs  
+- 🔹 **CPP-JOURNEY** – Learning from basics to advanced  
+- 🔹 **HACKER-EARTH-QUESTIONS** – Problem-solving practice  
 
 ---
 
 ### 🧪 Academic Work
 - 🔹 **FOCP-II-ASSIGNMENT** – C++ assignments  
-- 🔹 **FOCP-II-Lab-Manual** – Lab programs and implementations  
+- 🔹 **FOCP-II-Lab-Manual** – Lab programs  
 
 ---
 
-### 🤖 Advanced Project (Private)
-- 🔹 **Adaptive Neural Intelligence Engine** – Self-learning system in C++
+### 🤖 Advanced Project
+- 🔹 **Adaptive Neural Intelligence Engine** – Self-learning system (C++)  
 
 ---
 
-### 🐍 Python Learning
-- 🔹 **Python-For-Everybody** – Coursework and practice from Python course  
+### 🐍 Python
+- 🔹 **Python-For-Everybody** – Coursework & practice  
 
 ---
 
 ## 🧠 Currently Working On
-- 📌 Strengthening DSA in C++  
-- 📌 Writing cleaner and structured code  
-- 📌 Building consistency in coding  
-
----
-
-## ⚡ Fun Fact
-> I believe consistency beats motivation.
+- 📌 DSA in C++  
+- 📌 Writing cleaner code  
+- 📌 Building consistency  
 
 ---
 
