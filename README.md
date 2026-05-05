@@ -1,4 +1,4 @@
-<!-- 🔥 Animated Banner (stable) -->
+<!-- 🔥 Animated Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Jishnu%20Kaushik&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Jishnu Kaushik</h1>
 <h3 align="center">BTech CSE Student | Aspiring Software Engineer</h3>
 
-<!-- ⚡ Typing Animation (very stable) -->
+<!-- ⚡ Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=C%2B%2B+Learner;DSA+Focused;Problem+Solver;Building+Consistency" />
 </p>
@@ -31,25 +31,26 @@
 ## 🚀 Featured Work
 
 ### 📘 C++ Learning
-- 🔹 **LEARNING-CPP** – Core concepts and practice  
-- 🔹 **CPP-JOURNEY** – Basics to advanced  
-- 🔹 **HACKER-EARTH-QUESTIONS** – Problem solving  
-
----
+- 🔹 **LEARNING-CPP**
+- 🔹 **CPP-JOURNEY**
+- 🔹 **HACKER-EARTH-QUESTIONS**
 
 ### 🧪 Academic Work
-- 🔹 **FOCP-II-ASSIGNMENT**  
+- 🔹 **FOCP-II-ASSIGNMENT**
 - 🔹 **FOCP-II-Lab-Manual**
 
----
-
 ### 🤖 Advanced (Private)
-- 🔹 Adaptive Neural Intelligence Engine (C++)
-
----
+- 🔹 Adaptive Neural Intelligence Engine
 
 ### 🐍 Python
-- 🔹 Python-For-Everybody  
+- 🔹 Python-For-Everybody
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuKaushik&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -67,7 +68,7 @@
 
 ---
 
-## 🐍 Contribution Snake (your working one)
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" />
 </p>
