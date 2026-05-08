@@ -1,6 +1,6 @@
 <!-- 🔥 Dynamic Animated Banner -->
 <p align="center">
-  <img
+  <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,11,20,24,30&text=Jishnu%20Kaushik&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Aspiring%20Software%20Engineer&descAlignY=60&descSize=18"
   />
 </p>
@@ -15,9 +15,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-```html
 # 🌐 Connect With Me
 
 <p align="center">
@@ -35,15 +32,15 @@
   </a>
 
   <a href="https://leetcode.com/u/jishnukaushik/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="48" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="48" />
   </a>
 
   <a href="https://www.codechef.com/users/kaushik_jishnu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" height="45" />
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="45" />
   </a>
 
   <a href="https://www.hackerearth.com/@jishnukaushik16/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerearth.svg" height="45" />
+    <img src="https://cdn.simpleicons.org/hackerearth/2C3454" height="45" />
   </a>
 
 </p>
@@ -81,4 +78,44 @@
 ## 🤖 Advanced Project
 - 🔹 Adaptive Neural Intelligence Engine
 
+## 🐍 Python
+- 🔹 Python-For-Everybody
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuKaushik&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 🧠 Currently Working On
+
+- 📌 DSA in C++
+- 📌 Writing cleaner code
+- 📌 Building consistency in coding
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JishnuKaushik&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- 🔥 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24,30&section=footer" />
 </p>
