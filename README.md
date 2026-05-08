@@ -1,8 +1,3 @@
-# Advanced Animated GitHub Profile README
-
-Copy everything below into your `JishnuKaushik/JishnuKaushik` README.md
-
-```md
 <!-- 🔥 Dynamic Animated Banner -->
 <p align="center">
   <img
@@ -86,67 +81,4 @@ Copy everything below into your `JishnuKaushik/JishnuKaushik` README.md
 ## 🤖 Advanced Project
 - 🔹 Adaptive Neural Intelligence Engine
 
-## 🐍 Python
-- 🔹 Python-For-Everybody
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuKaushik&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
----
-
-# 🧠 Currently Working On
-
-- 📌 DSA in C++
-- 📌 Writing cleaner code
-- 📌 Building consistency in coding
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JishnuKaushik&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<!-- 🔥 Animated Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20,24,30&section=footer" />
-</p>
-```
-
-## Important
-
-Replace these placeholder links with your actual profiles:
-
-* LinkedIn
-* GitLab
-* CodeChef
-* HackerEarth
-
-Current placeholders:
-
-* `https://www.linkedin.com/`
-* `https://gitlab.com/`
-* `https://www.codechef.com/`
-* `https://www.hackerearth.com/`
-
-Example:
-
-```html
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
-```
