@@ -1,136 +1,121 @@
 <!-- SECTION: HERO -->
 <div align="center">
-  <h1>👋 Jishnu Kaushik</h1>
-  <p>🚀 <b>B.Tech Computer Science Student (AI/ML Specialization) | Software Engineering & Backend Enthusiast</b></p>
-
-  <!-- Typing SVG for active goals and profile focus -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI/ML+Specialization);Focusing+on+Data+Structures+%26+Algorithms;Daily+Python+Learning+%26+Consistency;Backend+Engineering+%26+Linux+Enthusiast" alt="Focus Areas" />
-
-  <!-- Professional Shields.io Badges for Social/Platform Connections -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jishnu-kaushik-0967033b6/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://leetcode.com/u/jishnukaushik/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-    <a href="https://www.codechef.com/users/kaushik_jishnu" target="_blank">
-      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-    </a>
-    <a href="https://www.hackerearth.com/@jishnukaushik16/" target="_blank">
-      <img src="https://img.shields.io/badge/HackerEarth-323846?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth" />
-    </a>
-    <a href="https://gitlab.com/JishnuKaushik" target="_blank">
-      <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0d1117&height=200&section=header&text=Jishnu%20Kaushik&fontSize=45&fontColor=58a6ff&desc=AI/ML%20Specialization%20%7C%20Software%20Engineering%20Focus&descSize=18&descColor=8b949e" width="100%" alt="Jishnu Kaushik Banner" />
 </div>
 
 <br />
 
----
-
 <!-- SECTION: ABOUT ME -->
 ## 🧑‍💻 About Me
 
-I am a computer science student specializing in **Artificial Intelligence & Machine Learning**. My core engineering focus lies in masterminding computer science fundamentals, writing clean and maintainable code, and learning through structured build-and-document cycles.
-
-- 🎓 **Education:** Pursuing a B.Tech in Computer Science & Engineering with a specialization in AI/ML.
-- 🧠 **Focus Areas:** Data Structures & Algorithms (DSA), backend systems architecture, and object-oriented design.
-- ⚙️ **Interests:** Operating systems (specifically Linux systems programming & automation) and robust Git/GitHub workflows.
-- ⚡ **Philosophy:** *“Consistency beats motivation.”* I prioritize daily code practice and clear documentation to build solid developer habits.
-
-<br />
-
----
-
-<!-- SECTION: PRIMARY ACTIVE REPOSITORY -->
-## 🔥 Primary Active Focus: [PYTHON-JOURNEY](https://github.com/JishnuKaushik/PYTHON-JOURNEY)
-
-This is my main active workspace where I am writing daily code, mastering language conventions (PEP 8, clean abstractions), and logging my development journey. Instead of passive learning, I build, break, and optimize within this repository.
-
-Key milestones and areas covered in `PYTHON-JOURNEY`:
-- **Foundational Algorithms:** Writing custom searching, sorting, and helper modules in pure Python.
-- **Pythonic OOP:** Applying object-oriented principles (encapsulation, abstraction, polymorphism, inheritance) and design patterns.
-- **Utility Projects:** Prototyping automation tools, command-line parsers, and data manipulation scripts.
+* 🎓 **Education:** B.Tech in Computer Science & Engineering (Entering 2nd Year) with an AI/ML Specialization.
+* 💻 **Primary Interests:** Artificial Intelligence, Machine Learning, Data Structures & Algorithms, and Backend Development.
+* ⚙️ **Systems & Workflows:** Software engineering principles using Python, C++, Linux environments, and Git version control.
+* 🎯 **Current Focus:** Deepening core computer science foundations, writing clean code, and maintaining daily coding habits.
+* 🚀 **Long-term Goal:** Transitioning into an AI/ML Engineer backed by a highly disciplined software engineering foundation.
 
 <br />
 
----
+<!-- SECTION: CURRENT FOCUS -->
+## ⚡ Current Focus
 
-<!-- SECTION: ENGINEERING PORTFOLIO -->
+* **AI/ML Fundamentals:** Deepening mathematical understanding (linear algebra, probability) and building models from the ground up.
+* **Python Development:** Writing clean, modular, and PEP-8 compliant code while practicing backend systems architecture.
+* **Data Structures & Algorithms:** Practicing problem-solving on competitive coding platforms to build algorithm intuition.
+* **Linux & Tooling:** Customizing Unix command-line workflows, automation scripting, and standard open-source workflows.
+
+<br />
+
+<!-- SECTION: ACTIVE PROJECTS -->
+## 🛠️ Active Projects
+
+* **[Adaptive-Neural-Intelligence-Engine](https://github.com/JishnuKaushik/Adaptive-Neural-Intelligence-Engine):** A neural network workstation implemented in C++17 from scratch with a custom Qt 6 dashboard. No external ML libraries; features custom Adam optimizer, backpropagation, and real-time visualization widgets.
+* **[THE-RISE-OF-LUMINARY](https://github.com/JishnuKaushik/THE-RISE-OF-LUMINARY):** A turn-based educational RPG/roguelike game built on C++17 and SFML 3.0.2 featuring elemental affinities, a dynamic particle engine, and real-time feedback.
+* **[PYTHON-JOURNEY](https://github.com/JishnuKaushik/PYTHON-JOURNEY):** A daily repository documenting progression through Python language structures, OOP concepts, and algorithm implementations.
+* **[NEXUS](https://github.com/JishnuKaushik/NEXUS):** An experimental backend connector framework aimed at service architecture and communication modules.
+
+<br />
+
+<!-- SECTION: REPOSITORY DIRECTORY -->
 ## 📂 Repository Directory
 
-I organize my engineering projects and academic work into logical categories:
+### 🤖 Artificial Intelligence & Machine Learning
+* **[Adaptive-Neural-Intelligence-Engine](https://github.com/JishnuKaushik/Adaptive-Neural-Intelligence-Engine)** – A custom neural network workstation built from scratch in C++17 and Qt6.
 
-### 🤖 Intelligent Systems & Core Engines
-*   **[Adaptive-Neural-Intelligence-Engine](https://github.com/JishnuKaushik/Adaptive-Neural-Intelligence-Engine)**: An exploration into neural network architectures and adaptive learning algorithms, aligning with my academic specialization.
-*   **[NEXUS](https://github.com/JishnuKaushik/NEXUS)**: A core framework designed to connect backend services and explore distributed communications.
-*   **[THE-RISE-OF-LUMINARY](https://github.com/JishnuKaushik/THE-RISE-OF-LUMINARY)**: An experimental sandbox for systems modeling and custom simulations.
+### 🐍 Python Development
+* **[PYTHON-JOURNEY](https://github.com/JishnuKaushik/PYTHON-JOURNEY)** – A structured log of daily Python learning, moving from core fundamentals to advanced patterns.
+* **[Python-For-Everybody](https://github.com/JishnuKaushik/Python-For-Everybody)** – Core programming exercises covering databases, text processing, and data fetching in Python.
 
-### 🐍 Python Ecosystem
-*   **[PYTHON-JOURNEY](https://github.com/JishnuKaushik/PYTHON-JOURNEY)** *(Primary)*: Log of daily coding challenges, design patterns, and pythonic structures.
-*   **[Python-For-Everybody](https://github.com/JishnuKaushik/Python-For-Everybody)**: Academic and self-paced exercises covering databases (SQLite), web APIs, and text processing.
-
-### ⚙️ C++ & System Programming
-*   **[CPP-JOURNEY](https://github.com/JishnuKaushik/CPP-JOURNEY)** & **[LEARNING-CPP](https://github.com/JishnuKaushik/LEARNING-CPP)**: Double-threaded deep dive into C++ syntax, object-oriented concepts, raw pointers, memory allocation, and STL containers.
-*   **Academic Work**: Undergrad coursework, including **FOCP-II-ASSIGNMENT** and **FOCP-II-Lab-Manual** implementing procedural and object-oriented paradigms.
+### ⚙️ C++ & Systems Programming
+* **[THE-RISE-OF-LUMINARY](https://github.com/JishnuKaushik/THE-RISE-OF-LUMINARY)** – A turn-based educational RPG/roguelike deck-builder game built in C++17 with SFML 3.0.2.
+* **[NEXUS](https://github.com/JishnuKaushik/NEXUS)** – A modular backend framework designed to connect services and explore distributed architectures.
+* **[CPP-JOURNEY](https://github.com/JishnuKaushik/CPP-JOURNEY)** – Hands-on C++ fundamentals, focusing on syntax, memory allocation, and STL containers.
+* **[LEARNING-CPP](https://github.com/JishnuKaushik/LEARNING-CPP)** – Practical exercises logging object-oriented programming concepts and system practices in C++.
 
 ### 🧠 Problem Solving & DSA
-*   **[HACKER-EARTH-QUESTIONS](https://github.com/JishnuKaushik/HACKER-EARTH-QUESTIONS)**: Solutions to algorithmic challenges, tracking progress across graphs, trees, search techniques, and string matching.
+* **[HACKER-EARTH-QUESTIONS](https://github.com/JishnuKaushik/HACKER-EARTH-QUESTIONS)** – Structured solutions to competitive programming challenges and algorithmic problems.
+
+### 🎓 Academic Foundation
+* **[FOCP-II-ASSIGNMENT](https://github.com/JishnuKaushik/FOCP-II-ASSIGNMENT)** – Course assignments covering fundamental programming concepts and procedural architecture.
+* **[FOCP-II-Lab-Manual](https://github.com/JishnuKaushik/FOCP-II-Lab-Manual)** – Undergrad lab manual implementations for computer programming fundamentals.
 
 <br />
-
----
 
 <!-- SECTION: TECH STACK -->
 ## 🛠️ Tech Stack & Tooling
 
-I choose tools that balance performance with developer velocity, using Python for AI/ML/prototyping and C++ for systems programming/DSA.
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" alt="Languages" /> |
-| **Workflows & Environments** | <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash&theme=dark" alt="Tools & Environments" /> |
+* **Languages:** Python, C++
+* **Tools & Workflows:** Git, GitHub, GitLab
+* **Environment:** VS Code, Linux (MSYS2 / Bash)
 
 <br />
-
----
 
 <!-- SECTION: ROADMAP -->
-## 🎯 Roadmap & Active Goals
+## 🎯 Learning Roadmap (2026)
 
-My goal is to transition from a student writing scripts to an engineer architecting reliable applications.
-
-- [ ] **Data Structures & Algorithms:** Master advanced graph representations and dynamic programming paradigms on competitive coding platforms.
-- [ ] **Backend Development:** Build and deploy a secure REST API with FastAPI/Flask and integrate it with a database (PostgreSQL/SQLite).
-- [ ] **Linux Systems:** Automate development environment setups and workspace configurations using advanced Bash scripts.
-- [ ] **AI/ML Integration:** Implement custom backpropagation, weights initialization, and gradient descent algorithms in `Adaptive-Neural-Intelligence-Engine`.
+- [ ] **Python:** Master advanced libraries, memory optimization, and PEP 8 best practices.
+- [ ] **Data Structures & Algorithms:** Complete core patterns (sliding window, graphs, DP) on competitive platforms.
+- [ ] **AI/ML Foundations:** Deepen linear algebra, calculus, and neural network math from scratch.
+- [ ] **Backend Development:** Build server architectures using Flask/FastAPI and database integration.
+- [ ] **Linux:** Learn shell scripting, terminal utilities, and POSIX development environments.
 
 <br />
 
----
-
-<!-- SECTION: GITHUB STATS -->
+<!-- SECTION: GITHUB ANALYTICS -->
 ## 📊 GitHub Analytics
 
-<table border="0">
+<table border="0" align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=tokyo_night&hide_border=true&rank_icon=github" alt="GitHub Stats" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=tokyo_night&hide_border=true" alt="GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=tokyo_night&hide_border=true" alt="Top Languages" width="100%" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=tokyo_night&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JishnuKaushik&theme=tokyo-night&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-### Weekly Coding Activity
+<br />
+
+<!-- SECTION: CONTRIBUTION SNAKE -->
+### 🐍 Contribution Grid
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JishnuKaushik&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-### Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
+<br />
+
+<!-- SECTION: CONTACTS -->
+## 🤝 Connect
+
+* **LinkedIn:** [jishnu-kaushik-0967033b6](https://www.linkedin.com/in/jishnu-kaushik-0967033b6/)
+* **LeetCode:** [jishnukaushik](https://leetcode.com/u/jishnukaushik/)
+* **CodeChef:** [kaushik_jishnu](https://www.codechef.com/users/kaushik_jishnu)
+* **HackerEarth:** [jishnukaushik16](https://www.hackerearth.com/@jishnukaushik16/)
+* **GitLab:** [JishnuKaushik](https://gitlab.com/JishnuKaushik)
