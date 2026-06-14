@@ -141,11 +141,9 @@
 
 # 🎮 Pac-Man Contribution Graph
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/pacman-contribution-graph-dark.svg"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/pacman-contribution-graph-dark.svg">
+</p>
 
 ---
 
