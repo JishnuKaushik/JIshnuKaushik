@@ -1,90 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b2e&height=200&section=header&text=Jishnu%20Kaushik&fontSize=42&fontColor=58A6FF&desc=AI/ML%20Student%20•%20Software%20Engineering%20Focus&descSize=16&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&text=Jishnu%20Kaushik&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Python%20Learner%20%7C%20DSA%20Explorer&descAlignY=60"/>
 
-# Jishnu Kaushik
+# 👋 Hey, I'm Jishnu Kaushik
 
-### AI/ML Student • Software Engineering Enthusiast • Problem Solver
+### B.Tech CSE (AI/ML) • Python • DSA • Backend Systems • Linux
 
-Building strong foundations in Computer Science, Artificial Intelligence, and Software Engineering through consistent learning and hands-on projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Software+Engineering+From+First+Principles;Building+Projects+One+Commit+At+A+Time;Exploring+Python+DSA+and+Backend+Systems;Turning+Curiosity+Into+Code"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
-* 🎓 B.Tech Computer Science Engineering (AI/ML Specialization)
-* 📚 Currently entering my 2nd Year
-* 🐍 Learning Python through project-based practice
-* 🧠 Strengthening Data Structures & Algorithms fundamentals
-* ⚙️ Interested in Backend Systems, Linux, and Developer Tooling
-* 🤖 Exploring Artificial Intelligence and Machine Learning from first principles
-* 🚀 Working toward becoming an AI/ML Engineer with strong software engineering foundations
+🎓 B.Tech Computer Science Engineering (AI/ML)
+
+📚 Currently in 2nd Year
+
+🐍 Actively learning Python through structured practice and projects
+
+🧠 Building strong Data Structures & Algorithms foundations
+
+⚙️ Interested in Backend Development, Linux, Systems Programming and Developer Tooling
+
+🚀 Long-term goal: Become a strong Software Engineer capable of building scalable systems and intelligent products
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Current Learning Progress
 
-* Python Development
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Git & GitHub Workflows
-* Linux Development Environment
-* AI/ML Fundamentals
+### Python Journey
+
+* Variables
+* Data Types
+* Operators
+* Strings
+* Conditional Statements
+* Loops
+* Functions
+
+### Currently Learning
+
+* Lists
+* Tuples
+* Dictionaries
+* Sets
+* Problem Solving
+
+### Upcoming
+
+* OOP
+* NumPy
+* Pandas
+* Data Visualization
 * Backend Development
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<div align="center">
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,gitlab,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
-</div>
+### Tools
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash" />
+</p>
 
-## 🚀 Active Projects
+### Exploring
 
-### 🤖 Adaptive Neural Intelligence Engine
-
-Exploring neural networks through a custom implementation-focused approach in C++.
-
-### 🐍 PYTHON-JOURNEY
-
-My primary learning repository documenting Python concepts, exercises, mini-projects, and daily progress.
-
-### ⚙️ NEXUS
-
-An experimental playground for backend architecture and systems design ideas.
-
-### 🚀 THE-RISE-OF-LUMINARY
-
-A C++ game development project focused on gameplay systems, architecture, and programming fundamentals.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+</p>
 
 ---
 
-## 📂 Featured Repositories
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-* Adaptive-Neural-Intelligence-Engine
+# 📂 Featured Repositories
 
 ### 🐍 Python
 
 * PYTHON-JOURNEY
 * Python-For-Everybody
 
-### ⚙️ C++ & Systems Programming
+### ⚙️ C++ & Systems
 
 * CPP-JOURNEY
-* LEARNING-CPP
-* THE-RISE-OF-LUMINARY
+* LEARNING-CPP-C-JOURNEY
 * NEXUS
+* THE-RISE-OF-LUMINARY
 
-### 🧠 Problem Solving
+### 🤖 AI / ML
+
+* Adaptive-Neural-Intelligence-Engine
+
+### 🧩 Problem Solving
 
 * HACKER-EARTH-QUESTIONS
 
@@ -95,15 +109,19 @@ A C++ game development project focused on gameplay systems, architecture, and pr
 
 ---
 
-## 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JishnuKaushik&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JishnuKaushik&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=JishnuKaushik&theme=github-dark-blue&hide_border=true"/>
 
@@ -111,50 +129,85 @@ A C++ game development project focused on gameplay systems, architecture, and pr
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 LeetCode Progress
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://leetcard.jacoblin.cool/jishnukaushik?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Roadmap
+# 🎮 Pac-Man Contribution Graph
 
-* [ ] Strengthen Python foundations
-* [ ] Solve 200+ DSA problems
-* [ ] Complete AI/ML fundamentals
-* [ ] Build practical backend projects
-* [ ] Improve Linux and CLI proficiency
-* [ ] Contribute consistently on GitHub
-* [ ] Develop stronger software engineering habits
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/pacman-contribution-graph-dark.svg"/>
+
+</div>
 
 ---
 
-## 🤝 Connect With Me
+# 🎯 2026 Goals
+
+* [ ] Complete Python Fundamentals
+* [ ] Learn Object Oriented Programming
+* [ ] Solve 300+ DSA Problems
+* [ ] Become Comfortable With LeetCode
+* [ ] Learn SQL Properly
+* [ ] Build Backend Projects
+* [ ] Learn Linux Deeply
+* [ ] Contribute Consistently On GitHub
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/jishnukaushik/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/kaushik_jishnu">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/jishnukaushik16">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/jishnukaushik16">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerearth.com/@jishnukaushik16/">
+<img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge"/>
+</a>
+
+<a href="https://profiles.topcoder.com/Jishnu_Kaushik">
+<img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge"/>
+</a>
+
+</div>
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jishnu-kaushik-0967033b6/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
-</a>
-
-<a href="https://leetcode.com/u/jishnukaushik/">
-<img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=58A6FF" />
-</a>
-
-<a href="https://www.codechef.com/users/kaushik_jishnu">
-<img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=58A6FF" />
-</a>
-
-<a href="https://www.hackerearth.com/@jishnukaushik16/">
-<img src="https://img.shields.io/badge/HackerEarth-0D1117?style=for-the-badge&logo=hackerearth&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://gitlab.com/JishnuKaushik">
-<img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+<a href="https://github.com/JishnuKaushik">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -163,8 +216,6 @@ A C++ game development project focused on gameplay systems, architecture, and pr
 
 <div align="center">
 
-### Building Consistency One Commit At A Time
+### "Consistency compounds."
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b2e,100:0d1117&height=120&section=footer" width="100%" />
