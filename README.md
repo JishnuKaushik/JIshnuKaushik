@@ -1,64 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&text=Jishnu%20Kaushik&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Python%20Learner%20%7C%20DSA%20Explorer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,100:1f6feb&text=Jishnu%20Kaushik&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20AI%2FML%20%7C%20Grinding%20The%20Fundamentals%20One%20Commit%20At%20A%20Time&descAlignY=60"/>
 
-# 👋 Hey, I'm Jishnu Kaushik
+# 👋 Hey, I'm Jishnu Kaushik &nbsp;·&nbsp; <sub>he/him</sub>
 
-### B.Tech CSE (AI/ML) • Python • DSA • Backend Systems • Linux
+### B.Tech CSE (AI/ML) • 2nd Year • Python • DSA • Learning From First Principles
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Learning+Software+Engineering+From+First+Principles;Building+Projects+One+Commit+At+A+Time;Exploring+Python+DSA+and+Backend+Systems;Turning+Curiosity+Into+Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Loading+player%3A+Jishnu+Kaushik...;Class%3A+CS+Undergrad+(AI%2FML)++%7C++Level+2;Learning+Software+Engineering+From+First+Principles;Currently+Grinding%3A+Python+%2B+DSA;Objective%3A+Become+A+Strong+Software+Engineer"/>
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+# 🎮 Character Sheet
 
-🎓 B.Tech Computer Science Engineering (AI/ML)
-
-📚 Currently in 2nd Year
-
-🐍 Actively learning Python through structured practice and projects
-
-🧠 Building strong Data Structures & Algorithms foundations
-
-⚙️ Interested in Backend Development, Linux, Systems Programming and Developer Tooling
-
-🚀 Long-term goal: Become a strong Software Engineer capable of building scalable systems and intelligent products
-
----
-
-# 🌱 Current Learning Progress
-
-### Python Journey
-
-* Variables
-* Data Types
-* Operators
-* Strings
-* Conditional Statements
-* Loops
-* Functions
-
-### Currently Learning
-
-* Lists
-* Tuples
-* Dictionaries
-* Sets
-* Problem Solving
-
-### Upcoming
-
-* OOP
-* NumPy
-* Pandas
-* Data Visualization
-* Backend Development
+|              |                                                        |
+| ------------ | ------------------------------------------------------ |
+| 🧙 **Class**       | Computer Science Undergrad — AI / ML specialization |
+| 🎚️ **Level**       | 2 &nbsp;(2nd Year B.Tech)                           |
+| 🗺️ **Region**      | India                                              |
+| ⚔️ **Main Weapon** | Python                                             |
+| 🛡️ **Off-hand**    | C · C++ · Java                                     |
+| 🎯 **Active Focus** | Data Structures, Algorithms & Problem Solving     |
+| 🧭 **Alignment**   | *Lawful Curious* — reads the docs, learns the why  |
+| 🚀 **End Game**    | Software Engineer building scalable, intelligent systems |
 
 ---
 
-# 🛠️ Tech Stack
+# 🧬 XP Bar
+
+```text
+LEVEL 2  →  SOFTWARE ENGINEER
+▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  ~40%   (year 2 of the run)
+```
+
+## 🌳 Skill Tree
+
+```text
+Python Fundamentals       ▓▓▓▓▓▓░░░░  55%   ← collections + problem solving in progress
+Problem Solving / DSA      ▓▓░░░░░░░░  15%
+C / C++                    ▓▓▓▓▓░░░░░  50%
+Java                       ▓▓░░░░░░░░  15%
+SQL                        ▓▓░░░░░░░░  15%
+Git & GitHub               ▓▓▓▓▓▓▓░░░  65%
+Linux & Shell              ▓▓░░░░░░░░  20%
+```
+
+## 📖 Spell Book — Now Studying
+
+- ✅ Variables · Data Types · Operators · Strings
+- ✅ Conditional Statements · Loops · Functions
+- 🔄 Lists · Tuples · Dictionaries · Sets
+- 🔄 Problem Solving Patterns
+- 🔒 OOP &nbsp;<sub>(unlocks after collections)</sub>
+- 🔒 NumPy · Pandas · Data Visualization
+- 🔒 Backend Development · Linux · Systems Programming
+
+---
+
+# 🎒 Inventory
 
 ### Languages
 
@@ -69,47 +69,65 @@
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
 </p>
 
-### Exploring
+### 🔮 Exploring / Aspirational
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql" />
+<img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
+
+<p align="center"><sub>Long game: Backend Development · Linux · Systems Programming · Developer Tooling</sub></p>
 
 ---
 
-# 📂 Featured Repositories
+# 🗺️ Active Quests
 
-### 🐍 Python
+| Quest                                              | Status         |
+| ------------------------------------------------- | -------------- |
+| Finish Python fundamentals (collections → OOP)     | 🔄 In Progress |
+| Solve 300+ DSA problems                            | 🔄 In Progress |
+| Get genuinely comfortable on LeetCode              | 🔄 In Progress |
+| Learn SQL properly                                 | ⏳ Queued      |
+| Ship a first real backend project                  | 🔒 Locked      |
+| Contribute consistently on GitHub                  | 🟢 Ongoing     |
+| Learn Linux deeply                                 | ⏳ Queued      |
 
-* PYTHON-JOURNEY
-* Python-For-Everybody
+---
 
-### ⚙️ C++ & Systems
-
-* CPP-JOURNEY
-* LEARNING-CPP-C-JOURNEY
-* NEXUS
-* THE-RISE-OF-LUMINARY
+# ⚔️ Notable Builds
 
 ### 🤖 AI / ML
 
-* Adaptive-Neural-Intelligence-Engine
+- **Ocean-Embed** — deep-learning reconstruction of subsurface ocean temperature profiles from satellite surface observables (North Indian Ocean). *Smart India Hackathon 2026 · PS26066.* &nbsp;<sub>🔒 private</sub>
+- **[Adaptive-Neural-Intelligence-Engine (ANIE)](https://github.com/JishnuKaushik/Adaptive-Neural-Intelligence-Engine-ANIE-)** — a self-learning decision system in C++
+- **[Adaptive Neural Intelligence Engine — Final](https://github.com/JishnuKaushik/Adaptive_Neural_Intelligence_Engine-Final_Ver)** — 2nd-semester hackathon build
+
+### 🐍 Python
+
+- **[PYTHON-JOURNEY](https://github.com/JishnuKaushik/PYTHON-JOURNEY)** — learning Python from scratch &nbsp;<sub>(started 30 May 2026)</sub>
+- **[PROGRAMMING-FOR-DATA-SCIENCE](https://github.com/JishnuKaushik/PROGRAMMING-FOR-DATA-SCIENCE)** — data-science focused Python practice
+- **[Python-For-Everybody](https://github.com/JishnuKaushik/Python-For-Everybody)** — Coursera coursework
+
+### ⚙️ C / C++
+
+- **[CPP-JOURNEY](https://github.com/JishnuKaushik/CPP-JOURNEY)** — C++ from the basics to advanced
+- **[THE-RISE-OF-LUMINARY](https://github.com/JishnuKaushik/THE-RISE-OF-LUMINARY)** — C++ project
+- **[LEARNING-CPP](https://github.com/JishnuKaushik/LEARNING-CPP)** — everything picked up while learning C++
 
 ### 🧩 Problem Solving
 
-* HACKER-EARTH-QUESTIONS
+- **[LeetCode](https://github.com/JishnuKaushik/LeetCode)** — solutions log
+- **[HACKER-EARTH-QUESTIONS](https://github.com/JishnuKaushik/HACKER-EARTH-QUESTIONS)** — curated HackerEarth solutions
 
-### 🎓 Academic Work
+### 🌱 New Save Files
 
-* FOCP-II-ASSIGNMENT
-* FOCP-II-Lab-Manual
+**[java-journey](https://github.com/JishnuKaushik/java-journey)** &nbsp;·&nbsp; **[SQL-JOURNEY](https://github.com/JishnuKaushik/SQL-JOURNEY)** &nbsp;·&nbsp; **[Learning-A.I.-Tools](https://github.com/JishnuKaushik/Learning-A.I.-Tools)**
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 Battle Stats
 
 <div align="center">
 
@@ -129,6 +147,16 @@
 
 ---
 
+# 🌍 3D Contribution World
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JishnuKaushik/JIshnuKaushik/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph — generates automatically after the first Actions run"/>
+
+</div>
+
+---
+
 # 🏆 LeetCode Progress
 
 <div align="center">
@@ -139,7 +167,7 @@
 
 ---
 
-# 🎮 Pac-Man Contribution Graph
+# 🕹️ Pac-Man Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/JishnuKaushik/JishnuKaushik/output/pacman-contribution-graph-dark.svg">
@@ -147,20 +175,7 @@
 
 ---
 
-# 🎯 2026 Goals
-
-* [ ] Complete Python Fundamentals
-* [ ] Learn Object Oriented Programming
-* [ ] Solve 300+ DSA Problems
-* [ ] Become Comfortable With LeetCode
-* [ ] Learn SQL Properly
-* [ ] Build Backend Projects
-* [ ] Learn Linux Deeply
-* [ ] Contribute Consistently On GitHub
-
----
-
-# 🌐 Coding Profiles
+# 🥷 Arenas
 
 <div align="center">
 
@@ -200,10 +215,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://gitlab.com/JishnuKaushik">
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</a>
-
 <a href="https://github.com/JishnuKaushik">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -214,6 +225,8 @@
 
 <div align="center">
 
-### "Consistency compounds."
+### "Consistency compounds." &nbsp;—&nbsp; <sub>commit daily, level up slowly</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1f6feb,100:0d1117"/>
 
 </div>
